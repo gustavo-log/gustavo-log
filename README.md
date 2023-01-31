@@ -1,11 +1,11 @@
-#Welcome my profile!
+# Welcome my profile!
 
 Hi, my name is Gustavo Silva and this is my first repository, where I'm going to talk a little about myself.
   I'm 17 years old, starting my first period in college, in the course of Systems Analysis and Development.
   I'm looking to become a front-end dev.
 
 
-##Studying
+## Studying
 
 - JavaScript
 - HTML
@@ -13,7 +13,7 @@ Hi, my name is Gustavo Silva and this is my first repository, where I'm going to
 - Git and GitHub
 - React
 
-#My contacts
+# My contacts
 
 - Instagram: @gustaavo.zl
 - Email: gustavotrabalhos1805@gmail.com
